@@ -5,11 +5,6 @@
   position: relative;
 }
 
-.particalCont {
-  position: absolute;
-  width: 100%;
-}
-
 .mainPageContent {
   display: flex;
   position: absolute;

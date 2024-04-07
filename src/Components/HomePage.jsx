@@ -1,15 +1,11 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useRef } from "react";
 import styles from "./Css/HomePage.module.css";
 
-import Particles from "react-particles-js";
-import particles from "../data/particals.json";
 import dp from "../img/profile_pic.png";
 import { Projects } from "./Projects";
 import { Footer } from "./Footer";
 import { SkillSet } from "./SkillSet";
 import WorkDetails from "./WorkDetails";
-
-import { useWindowScroll } from "react-use";
 
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -84,9 +80,9 @@ function HomePage() {
   return (
     <div style={{ position: "relative" }}>
       <div className={styles.HomePageCont}>
-        <div className={styles.particalCont}>
+        {/* <div className={styles.particalCont}>
           <Particles height="105vh" width="100%" params={particles}></Particles>
-        </div>
+        </div> */}
 
         <div className={styles.mainPageContent}>
           <div className={styles.dpImgCont}>
