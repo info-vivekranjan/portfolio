@@ -49,49 +49,6 @@ function Footer() {
       </div>
       <div className={styles.line} data-aos="fade-left"></div>
 
-      <div className={styles.contactUsMain}>
-        <form ref={form} onSubmit={sendEmail} className={styles.contactForm}>
-          <div className={styles.formGroup}>
-            <label className={styles.label}>Name</label>
-            <input
-              type="text"
-              name="user_name"
-              value={username}
-              onChange={handleChangeName}
-              required
-              className={styles.input}
-            />
-          </div>
-
-          <div className={styles.formGroup}>
-            <label className={styles.label}>Email</label>
-            <input
-              type="email"
-              name="user_email"
-              value={useremail}
-              onChange={handleChangeEmail}
-              required
-              className={styles.input}
-            />
-          </div>
-
-          <div className={styles.formGroup}>
-            <label className={styles.label}>Message</label>
-            <textarea
-              name="message"
-              value={message}
-              onChange={handleChangeMessage}
-              required
-              className={styles.textarea}
-            />
-          </div>
-
-          <div className={styles.formGroup}>
-            <input type="submit" value="Send" className={styles.submitButton} />
-          </div>
-        </form>
-      </div>
-
       <div className={styles.socialMediaLinks}>
         <a href="https://www.linkedin.com/in/vivek0003/" target="_blank">
           <i className="ri-linkedin-box-fill"></i>

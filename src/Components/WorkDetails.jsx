@@ -20,7 +20,7 @@ const WorkDetails = () => {
             <li>
               <div className="content">
                 <h3>Sakha Global | Hybrid</h3>
-                <h4 style={{ lineHeight: "0px" }}>Software Engineer</h4>
+                <h4 style={{ lineHeight: "0px" }}>Senior Software Engineer</h4>
                 <p>
                   Developed some of the frontend pages and wrote backend apis
                   for building health- checkup web app, Worked on another

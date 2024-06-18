@@ -28,7 +28,6 @@ export const data = [
         "description": "Using this webapp anyone can make and download any type of templates for example markeing or any purpose. I have used React JS, FabricJS, Canvas and material ui to make this website.",
         "demo": "https://github.com/info-vivekranjan/canvas-app",
         "github": "https://github.com/info-vivekranjan/canvas-app",
-        "video": "https://github.com/info-vivekranjan/canvas-app",
         "techStack": {
             "tech1": reactLogo,
             "tech2": jsLogo,
@@ -43,7 +42,6 @@ export const data = [
         "description": "Using this website anyone can make their resume. I have used React JS and material ui to make this website.",
         "demo": "https://resume-builder-nu-one.vercel.app/",
         "github": "https://github.com/info-vivekranjan/Resume-builder",
-        "video": "https://resume-builder-nu-one.vercel.app/",
         "techStack": {
             "tech1": reactLogo,
             "tech2": jsLogo,
@@ -58,7 +56,6 @@ export const data = [
         "description": "Using this app anyone can create notes to maintain docs at one place.Used MERN stack for development and it's private to each person as it uses JWT.",
         "demo": "https://github.com/info-vivekranjan/Note-maker",
         "github": "https://github.com/info-vivekranjan/Note-maker",
-        "video": "https://github.com/info-vivekranjan/Note-maker",
         "techStack": {
             "tech1": reactLogo,
             "tech2": cssLogo,
@@ -74,9 +71,8 @@ export const data = [
         "alt": "Cred Clone",
         "heading": "Cred Clone",
         "description": "Clone of cred.club, an Indian fintech company.CRED's main feature is allowing users to make credit card payments for which they get rewarded.",
-        "demo": "https://creds-clone.netlify.app/",
+        "demo": "https://youtu.be/iXtryZ7rmvk",
         "github": "https://github.com/info-vivekranjan/cred",
-        "video": "https://youtu.be/iXtryZ7rmvk",
         "techStack": {
             "tech1": htmlLogo,
             "tech2": cssLogo,
@@ -91,32 +87,13 @@ export const data = [
         "alt": "Covid Tracker",
         "heading": "Covid Tracker",
         "description": "Covid19 tracker app with World, Country-wise, and every-country state-wise real-time data available.",
-        "demo": "https://covid-tracker-official.netlify.app/",
+        "demo": "https://youtu.be/qvsx043rsPI",
         "github": "https://github.com/info-vivekranjan/info-vivekranjan.github.io/tree/main/covid_tracker",
-        "video": "https://youtu.be/qvsx043rsPI",
         "techStack": {
             "tech1": htmlLogo,
             "tech2": cssLogo,
             "tech3": jsLogo,
             "tech4": reactLogo,
-
-        }
-    },
-    {
-        "img": todo,
-        "alt": "CRUD Todo App",
-        "heading": "CRUD Todo App",
-        "description": "Todo app with a couple of features like, A user can add, edit, toggle the status and delete a pericular task from the todo list.",
-        "demo": "https://todos-crud.netlify.app/",
-        "github": "https://github.com/info-vivekranjan/info-vivekranjan.github.io/tree/main/CRUD_Todo_App",
-        "video": "https://youtu.be/GIbW4tbDmHA",
-        "techStack": {
-            "tech1": htmlLogo,
-            "tech2": cssLogo,
-            "tech3": reactLogo,
-            "tech4": reduxLogo,
-            "tech5": materialUiLogo
-
 
         }
     },
