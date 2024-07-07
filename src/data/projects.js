@@ -15,12 +15,26 @@ import socketioLogo from '../img/logo/socketio.svg';
 import cred from '../img/screenshots/cred.png';
 import covid_tracker from '../img/screenshots/covid-tracker.png';
 import hubspot from '../img/screenshots/hubspot.png';
-import todo from '../img/screenshots/todo.png';
 import noteMaker from '../img/screenshots/home.png';
 import resumeBuilder from '../img/screenshots/resume-builder.png';
 import CanvasApp from '../img/screenshots/CanvasApp.png';
+import DownloadYT from '../img/screenshots/DownloadYT.png';
 
 export const data = [
+    {
+        "img": DownloadYT,
+        "alt": "DownloadYT",
+        "heading": "DownloadYT",
+        "description": "Download YouTube Videos Easily: With the DownloadYT web app, you can download any YouTube video effortlessly.Used React JS in the client and node for the server side.",
+        "demo": "https://github.com/info-vivekranjan/DownloadYT",
+        "github": "https://github.com/info-vivekranjan/DownloadYT",
+        "techStack": {
+            "tech1": reactLogo,
+            "tech2": cssLogo,
+            "tech3": nodejsLogo,
+            "tech5": expressjsLogo,
+        }
+    },
     {
         "img": CanvasApp,
         "alt": "Canvas App",
